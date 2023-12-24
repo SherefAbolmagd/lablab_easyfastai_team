@@ -26,6 +26,10 @@ Email: contact@easyfastai.com
 
 Password: lablabme@12345
 
+Example document to use for training the AI
+
+https://drive.google.com/file/d/1r9Tkieu97hk9EdIMtd3yMNjcG4tflcTu
+
 ## Features
 
 - Hotel Use Case:

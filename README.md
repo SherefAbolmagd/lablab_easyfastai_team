@@ -12,7 +12,9 @@ Begin the process of uploading documents to facilitate a deeper understanding of
 3- AI Ready For Use
 Our AI is now poised to efficiently manage customer interactions around the clock, leveraging the data provided in any language
 
-TRY IT OUT HERE: https://api.whatsapp.com/send/?phone=60175733742&text=Hello%20from%20lablab
+
+TRY IT OUT HERE (ChatHack AI Assistance): https://api.whatsapp.com/send/?phone=60175733742&text=what%20is%20the%20prizes%20for%20this%20hackathon
+
 
 Website: https://chatbot.easyfastai.com
 

@@ -14,6 +14,8 @@ Our AI is now poised to efficiently manage customer interactions around the cloc
 
 TRY IT OUT HERE: https://api.whatsapp.com/send/?phone=60175733742&text=Hello%20from%20lablab
 
+Website: https://chatbot.easyfastai.com
+
 ## Features
 
 - Hotel Use Case:

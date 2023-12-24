@@ -18,7 +18,7 @@ TRY IT OUT HERE (ChatHack AI Assistance): https://api.whatsapp.com/send/?phone=6
 
 Website: https://chatbot.easyfastai.com
 
-Demo account:
+## Demo account
 
 URL: https://chatbot.easyfastai.com/login
 
